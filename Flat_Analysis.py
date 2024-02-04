@@ -6,7 +6,7 @@ import re
 st.set_page_config(page_title="Singapore  Resale Flat Prices Predicting",
                    layout="wide",
                    initial_sidebar_state="expanded",
-                   menu_items={"About":"This dashboard app is created by Priyanka Pal"})
+                   menu_items={"About":"This dashboard app is created by Thangapandy_S"})
 st.markdown(f'<h1 style="text-align:center;">Singapore Resale Flat Prices Prediction App</h2>',
             unsafe_allow_html=True)
 st.markdown("<style>div.block-container{padding-top:1rem;}</style>",unsafe_allow_html=True)
